@@ -13,6 +13,7 @@ export default function Post() {
                 window.location.href = "/";
             }
             
+            
 
         })
     }
